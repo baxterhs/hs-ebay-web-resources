@@ -23,7 +23,7 @@ To use any of the provided stylesheets in your eBay listings:
 
 ~~~html
 <link rel="stylesheet" href="YOUR_CDN_LINK_HERE.css">
-
+~~~
 4. Ensure your eBay product listing's HTML utilizes the classes or IDs defined in the chosen stylesheet.
 
 **Note:** Before applying any stylesheet, it's recommended to test the appearance in eBay's preview mode to ensure everything looks as expected.
