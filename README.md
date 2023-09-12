@@ -1,6 +1,6 @@
-# eBay Product Styles
+# eBay Product Description CSS
 
-A collection of CSS stylesheets designed to enhance the appearance of product listings on eBay.
+A collection of CSS stylesheets designed to enhance the appearance of product listings on eBay. Primarily created for UK Home Decor Brand: Home Selections Limited.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ A collection of CSS stylesheets designed to enhance the appearance of product li
 
 ## Description
 
-This repository hosts CSS stylesheets tailored for eBay product listings. Our goal is to provide sellers with a set of styles that can make their listings stand out, look professional, and enhance the buying experience. Whether it's elegant typography, responsive layouts, or thematic styles, this collection is dedicated to elevating the presentation of eBay product details.
+This repository hosts CSS stylesheets tailored for eBay product descriptions. Our goal is to provide sellers with a set of styles that can make their listings stand out, look professional, and enhance the buying experience. Whether it's elegant typography, responsive layouts, or thematic styles, this collection is dedicated to elevating the presentation of eBay product details.
 
 ## Usage
 
@@ -21,6 +21,7 @@ To use any of the provided stylesheets in your eBay listings:
 2. Obtain the jsDelivr CDN link or any other CDN you've set up to serve the file.
 3. Insert the link into your eBay product listing's HTML:
 
+'''html
 <link rel="stylesheet" href="YOUR_CDN_LINK_HERE.css">
 
 4. Ensure your eBay product listing's HTML utilizes the classes or IDs defined in the chosen stylesheet.
