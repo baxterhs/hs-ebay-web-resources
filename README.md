@@ -21,7 +21,7 @@ To use any of the provided stylesheets in your eBay listings:
 2. Obtain the jsDelivr CDN link or any other CDN you've set up to serve the file.
 3. Insert the link into your eBay product listing's HTML:
 
-'''html
+~~~html
 <link rel="stylesheet" href="YOUR_CDN_LINK_HERE.css">
 
 4. Ensure your eBay product listing's HTML utilizes the classes or IDs defined in the chosen stylesheet.
